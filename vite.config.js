@@ -1,3 +1,3 @@
 export default {
-  base: '/vite-deployment/',
+  base: '/vite-test/',
 }
